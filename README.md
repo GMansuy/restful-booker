@@ -1,4 +1,4 @@
-v1
+v2
 
 # restful-booker
 A simple Node booking form for testing RESTful web services.
